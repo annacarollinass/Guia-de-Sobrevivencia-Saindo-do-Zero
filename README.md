@@ -1,12 +1,12 @@
-# Guia-de-Sobrevivencia-Saindo-do-Zero
+# 💰 Guia-de-Sobrevivencia-Saindo-do-Zero
 
-**Link do Meu Notebook no NotebookLM**
+**🧠 Link do Meu Notebook no NotebookLM**
 
 https://notebooklm.google.com/notebook/c898977c-9c10-4588-9d61-3b106088a547
 
 ---
 
-**Contexto e Objetivo:** 
+**🎯 Contexto e Objetivo:** 
 
 Projeto desenvolvido no **Bootcamp GenAI & Dados - DIO + Bradesco**. 
 
@@ -14,7 +14,7 @@ Este guia foca no planejamento conjunto, onde todos os membros que vivem na mesm
 
 ---
 
-**Curadoria de Fontes:**
+**📂 Fontes:**
 
 https://investirbem.prevpepsico.com.br/publicacoes/familia-unida-como-criar-bons-habitos-financeiros
 
@@ -28,7 +28,7 @@ https://youtu.be/N0MpThVYKA8?si=7D1v8K1YrEZUBHAU
 
 ---
 
-**Engenharia de Prompts e "Cicatrizes":**
+**🤖 Teste de Prompts:**
 
 **Prompt 1** 
 *"Atue como um tutor de educação financeira. Analise todos os documentos carregados e crie um Roteiro de Estudos Sugerido em ordem lógica para quem está começando do zero. Para cada tópico, escreva um resumo de uma frase e liste as 3 palavras-chave mais importantes. O objetivo é que eu entenda o 'porquê' antes do 'como'."*
@@ -121,13 +121,60 @@ A Linha de Corte:
    Sobreviver: Significa garantir que o básico esteja pago e que você tenha de 3 a 6 meses de despesas guardados para imprevistos.
    Investir: Significa aplicar o excedente (os 20% do método 50/30/20) para crescer o patrimônio, mas apenas depois que a base de segurança (reserva e dívidas sob controle) estiver sólida.
 
+**Prompt 4** 
+*"Utilizando a regra dos 50-30-20 mencionada nos documentos, crie uma tabela de exemplo que mostre como uma pessoa que ganha R$ 2.000,00 deve distribuir seu dinheiro. Divida em: Necessidades (50%), Desejos (30%) e Quitação de Dívidas/Reserva (20%). Se o custo de vida nas fontes indicar que isso é difícil, sugira ajustes realistas para reduzir os 'Desejos' temporariamente."*
 
+**Resposta:**
 
+Com base no método 50/30/20 detalhado nas fontes, elaborei a tabela abaixo adaptada para uma renda de R$ 2.000,00. Este modelo ajuda a visualizar como o seu dinheiro deve ser distribuído para garantir o equilíbrio entre o presente e o futuro.
 
+ Tabela de Distribuição Financeira (R$ 2.000,00)
 
-# Mini-guia de estudo:
+| Categoria | % Sugerida | Valor (R$) | Exemplos de Gastos Práticos |
+| :--- | :---: | :---: | :--- |
+| Necessidades | 50% | R$ 1.000,00 | Aluguel/Prestação, supermercado, luz, água, gás e transporte. |
+| Desejos Pessoais | 30% | R$ 600,00 | Lazer, assinaturas (streaming), comer fora, roupas e pequenos luxos. |
+| Dívidas ou Reserva | 20% | R$ 400,00 | Quitação de dívidas com juros altos ou montagem da reserva de emergência. |
 
-**Resumo**
+ Sugestões de Ajustes Realistas (O "Aperto de Cinto")
+
+As fontes reconhecem que, para muitas famílias, as Necessidades podem ultrapassar os 50%, especialmente em momentos de crise ou endividamento alto. Se este for o seu caso, as fontes sugerem estratégias para ajustar o orçamento:
+
+1.  Redução Temporária dos Desejos: Caso os R$ 1.000,00 não cubram suas contas básicas, você deve "apertar o cinto" e transferir parte dos 30% (Desejos) para a categoria de Necessidades ou para acelerar o pagamento de dívidas. 
+2.  Identificação de Supérfluos: Analise seus gastos dos últimos 30 dias para identificar o que é realmente essencial e o que é supérfluo, cortando o que for desnecessário até que as contas se equilibrem.
+3.  Priorização de Sobrevivência: Se o dinheiro estiver muito curto, foque primeiro nas "Dívidas Essenciais" (água, luz, moradia) antes de qualquer outra despesa.
+4.  Pausa antes de Comprar: Sempre que sentir o impulso de gastar na categoria "Desejos", dê uma pausa e avalie se aquele gasto não comprometerá sua segurança financeira de longo prazo.
+5.  Geração de Renda Extra: Caso o corte de gastos não seja suficiente para fechar a conta, as fontes sugerem buscar rendas alternativas (como venda de itens usados ou freelancers) para aumentar o valor total e facilitar o cumprimento da regra.
+
+Lembre-se: o objetivo deste método é ser um mapa, e não uma prisão. Ajustar as porcentagens temporariamente para quitar dívidas mais rápido é uma decisão inteligente que protege seu bolso no futuro.
+
+**Prompt 5** 
+*"Crie uma lista de 'Perguntas Frequentes' (FAQ) com as 5 dúvidas mais comuns de quem está tentando se organizar financeiramente, conforme abordado nas fontes. Responda a cada uma de forma direta, em no máximo 3 linhas, focando sempre em: 'Organize primeiro, invista depois'."*
+
+**Resposta:**
+
+Aqui estão as 5 dúvidas mais frequentes de quem inicia a organização financeira, respondidas com foco total na estabilidade antes da expansão, conforme as fontes:
+
+**1. Por onde devo começar a organizar minha vida financeira?**
+O primeiro passo é anotar rigorosamente todos os seus ganhos e gastos em uma planilha, aplicativo ou caderno para entender para onde vai o seu dinheiro. Sem esse diagnóstico detalhado, não é possível traçar um plano seguro para poupar ou investir.
+
+**2. Tenho várias dívidas, quais devo pagar primeiro?**
+Priorize as dívidas essenciais (água, luz, moradia) para garantir sua sobrevivência e, em seguida, as de juros altos, como cartão de crédito e cheque especial. Estancar os juros compostos das dívidas é mais urgente do que buscar rentabilidade em investimentos.
+
+**3. Como posso economizar se o meu salário mal cobre o mês?**
+Adote a regra 50/30/20, cortando ou reduzindo temporariamente a categoria de "desejos" (30%) para equilibrar as contas essenciais. Se ainda faltar dinheiro, busque gerar renda extra vendendo itens sem uso ou realizando trabalhos freelancers.
+
+**4. Devo parar de usar o cartão de crédito enquanto me organizo?**
+O cartão deve ser usado com moderação e registro rigoroso de cada compra para não ultrapassar o limite do seu orçamento mensal. Evite parcelamentos que comprometam sua renda futura antes de ter suas dívidas atuais sob controle.
+
+**5. Quando é o momento seguro para começar a investir?**
+Você só deve investir em produtos de longo prazo após quitar dívidas caras e formar uma reserva de emergência para 3 a 6 meses. A segurança da reserva evita que você precise resgatar investimentos em momentos de crise, perdendo dinheiro.
+
+---
+
+# 💡 Mini-guia de estudo:
+
+**📖 Resumo**
 
 Organização Financeira e o Método 50/30/20
 O segredo para uma vida financeira saudável não está em cálculos complexos, mas na simplicidade e na consistência. A regra 50/30/20, popularizada por Elizabeth Warren, serve como um guia realista para distribuir o rendimento mensal de forma equilibrada.
@@ -135,7 +182,7 @@ O segredo para uma vida financeira saudável não está em cálculos complexos, 
 2. Implementação e Ferramentas: Para aplicar o método no dia a dia, recomenda-se: Identificar o rendimento líquido real após impostos; Analisar extratos bancários para classificar gastos passados; Reduzir a parcela de "desejos" se as necessidades ultrapassarem os 50% ou se não houver margem para poupar; Utilizar apps de gestão (como Mint ou YNAB), folhas de cálculo ou lembretes no telemóvel para monitorizar o progresso.
 3. Educação Financeira Familiar: A saúde financeira é potencializada quando todos os membros da casa estão alinhados com diálogo aberto, metas coletivas, celebração de conquistas e envolvimento de crianças e jovens.
 
-**Principais conceitos aprendidos**
+**📝 Principais conceitos aprendidos**
 
 *1 - Amortização de Dívidas:* Processo de reduzir ou quitar o valor total de uma dívida (como créditos ou cartões) de forma antecipada.
 
@@ -151,7 +198,7 @@ O segredo para uma vida financeira saudável não está em cálculos complexos, 
 
 *7 - Rendimento Líquido:* O valor total que entra na conta bancária após todos os descontos de impostos e segurança social.
 
-**Modelos de Prompts Reutilizáveis**
+**📚 Modelos de Prompts Reutilizáveis**
 
 "Atue como um mentor financeiro especializado em iniciantes. Com base nas fontes fornecidas, identifique os 3 conceitos fundamentais que alguém que está no 'zero absoluto' precisa dominar antes de tomar qualquer decisão. Para cada conceito, explique o impacto de ignorá-lo e como ele se conecta à construção de uma reserva de emergência."
 
