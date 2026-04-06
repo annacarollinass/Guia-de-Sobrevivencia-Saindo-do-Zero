@@ -1,4 +1,4 @@
-# 💰 Saindo-do-Zero
+# 💰 Guia-Saindo-do-Zero
 
 **🧠 Link do Meu Notebook no NotebookLM**
 
